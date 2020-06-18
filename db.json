@@ -1,14 +1,42 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "name": "Eilish",
+    "vorname": "Billie",
+    "userID": "bil232",
+    "serienNr": "12345",
+    "macAdresse": "04-04-04-04-04",
+    "standort": "Karlsruhe",
+    "bemerkung": "No Time to Die"
+  },
+  {
+    "id": 2,
+    "name": "Reeves",
+    "vorname": "Michael",
+    "userID": "Ree323",
+    "serienNr": "23456",
+    "macAdresse": "23-23-23-23-23",
+    "standort": "München",
+    "bemerkung": "building things for yt"
+  },
+  {
+    "id": 4,
+    "name": "Dwight",
+    "vorname": "Schrute",
+    "userID": "bbb21",
+    "serienNr": "bear55",
+    "macAdresse": "22-22-22-22-22",
+    "standort": "Münster",
+    "bemerkung": ""
+  },
+  {
+    "id": 5,
+    "name": "Kling",
+    "vorname": "Uwe",
+    "userID": "kan221",
+    "serienNr": "guru88",
+    "macAdresse": "A1-A1-A1-A1-A1",
+    "standort": "München",
+    "bemerkung": "NULL"
   }
-}
+  ]
