@@ -1,5 +1,122 @@
-{
-"name":"John",
-"age":30,
-"cars":[ "Ford", "BMW", "Fiat" ]
-}
+[
+  {
+    "id": 1,
+    "name": "Eilish",
+    "vorname": "Billie",
+    "userID": "bil232",
+    "serienNr": "12345",
+    "macAdresse": "04-04-04-04-04",
+    "standort": "Karlsruhe",
+    "bemerkung": "No Time to Die"
+  },
+  {
+    "id": 2,
+    "name": "Reeves",
+    "vorname": "Michael",
+    "userID": "Ree323",
+    "serienNr": "23456",
+    "macAdresse": "23-23-23-23-23",
+    "standort": "München",
+    "bemerkung": "building things for yt"
+  },
+  {
+    "id": 4,
+    "name": "Dwight",
+    "vorname": "Schrute",
+    "userID": "bbb21",
+    "serienNr": "bear55",
+    "macAdresse": "22-22-22-22-22",
+    "standort": "Münster",
+    "bemerkung": ""
+  },
+  {
+    "id": 5,
+    "name": "Kling",
+    "vorname": "Uwe",
+    "userID": "kan221",
+    "serienNr": "guru88",
+    "macAdresse": "A1-A1-A1-A1-A1",
+    "standort": "München",
+    "bemerkung": "NULL"
+  },
+  {
+    "id": 6,
+    "name": "Thoman",
+    "vorname": "Hilde",
+    "userID": "xsh2342",
+    "serienNr": "guru88",
+    "macAdresse": "A1-A1-A1-A1-A1",
+    "standort": "Münster",
+    "bemerkung": "NULL"
+  },
+  {
+    "id": 7,
+    "name": "Loist",
+    "vorname": "Walle",
+    "userID": "kan221",
+    "serienNr": "guru88",
+    "macAdresse": "A1-A1-A1-A1-A1",
+    "standort": "Karlsruhe",
+    "bemerkung": "NULL"
+  },
+  {
+    "id": 8,
+    "name": "Uzur",
+    "vorname": "Nils",
+    "userID": "kan221",
+    "serienNr": "guru88",
+    "macAdresse": "A1-A1-A1-A1-A1",
+    "standort": "München",
+    "bemerkung": "NULL"
+  },
+  {
+    "id": 9,
+    "name": "Nadim",
+    "vorname": "Kevin",
+    "userID": "kan221",
+    "serienNr": "guru88",
+    "macAdresse": "A1-A1-A1-A1-A1",
+    "standort": "Münster",
+    "bemerkung": "NULL"
+  },
+  {
+    "id": 10,
+    "name": "Eilish",
+    "vorname": "Billie",
+    "userID": "bil232",
+    "serienNr": "12345",
+    "macAdresse": "04-04-04-04-04",
+    "standort": "München",
+    "bemerkung": "building things for yt"
+  },
+  {
+    "id": 11,
+    "name": "Eilish",
+    "vorname": "Billie",
+    "userID": "bil232",
+    "serienNr": "12345",
+    "macAdresse": "04-04-04-04-04",
+    "standort": "Karlsruhe",
+    "bemerkung": "No Time to Die"
+  },
+  {
+    "id": 12,
+    "name": "Nlish",
+    "vorname": "Killie",
+    "userID": "suil232",
+    "serienNr": "34345",
+    "macAdresse": "10-04-04-04-04",
+    "standort": "München",
+    "bemerkung": "building things for yt"
+  },
+  {
+    "id": 13,
+    "name": "Nicole",
+    "vorname": "Taktak",
+    "userID": "bil232",
+    "serienNr": "12345",
+    "macAdresse": "04-04-04-04-04",
+    "standort": "Karlsruhe",
+    "bemerkung": "building things for yt"
+  }
+]
