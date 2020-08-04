@@ -1,22 +1,6 @@
-[
+
   {
     "id": 1,
     "name": "Eilish",
     "vorname": "Billie",
-    "userID": "bil232",
-    "serienNr": "12345",
-    "macAdresse": "04-04-04-04-04",
-    "standort": "Karlsruhe",
-    "bemerkung": "No Time to Die"
-  },
-  {
-    "id": 2,
-    "name": "Eilish",
-    "vorname": "Billie",
-    "userID": "bil232",
-    "serienNr": "12345",
-    "macAdresse": "04-04-04-04-04",
-    "standort": "Karlsruhe",
-    "bemerkung": "No Time to Die"
   }
- ]
