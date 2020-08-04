@@ -2,7 +2,7 @@
   "posts": [
     {"id": 1, "name": "Eilish", "vorname": "Billie"},
     {"id": 2, "name": "Eilish", "vorname": "Billie"},
-    {"id": 1, "name": "Eilish", "vorname": "Billie"}
+    {"id": 3, "name": "Eilish", "vorname": "Billie"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
