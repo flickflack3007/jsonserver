@@ -1,5 +1,5 @@
 {
-  "daten": [
+  "daten": 
   {
     "id": 1,
     "name": "Eilish",
@@ -9,7 +9,6 @@
     "macAdresse": "04-04-04-04-04",
     "standort": "Karlsruhe",
     "bemerkung": "No Time to Die"
-  }
-  ],
+  },
   "string": {"text": "Hallo"}
 }
