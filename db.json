@@ -9,49 +9,7 @@
     "macAdresse": "04-04-04-04-04",
     "standort": "Karlsruhe",
     "bemerkung": "No Time to Die"
-  },
-  {
-    "id": 2,
-    "name": "Reeves",
-    "vorname": "Michael",
-    "userID": "Ree323",
-    "serienNr": "23456",
-    "macAdresse": "23-23-23-23-23",
-    "standort": "München",
-    "bemerkung": "building things for yt"
-  },
-  {
-    "id": 4,
-    "name": "Dwight",
-    "vorname": "Schrute",
-    "userID": "bbb21",
-    "serienNr": "bear55",
-    "macAdresse": "22-22-22-22-22",
-    "standort": "Münster",
-    "bemerkung": ""
-  },
-  {
-    "id": 5,
-    "name": "Kling",
-    "vorname": "Uwe",
-    "userID": "kan221",
-    "serienNr": "guru88",
-    "macAdresse": "A1-A1-A1-A1-A1",
-    "standort": "München",
-    "bemerkung": "NULL"
-  },
-  {
-    "id": 6,
-    "name": "Thoman",
-    "vorname": "Hilde",
-    "userID": "xsh2342",
-    "serienNr": "guru88",
-    "macAdresse": "A1-A1-A1-A1-A1",
-    "standort": "Münster",
-    "bemerkung": "NULL"
   }
   ],
-  "string": [
-    {"text": "Hallo"}
-    ]
+  "string": {"text": "Hallo"}
 }
